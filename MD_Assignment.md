@@ -6,8 +6,8 @@ An ATM is an Automated Teller Machine that helps you to access cash without trav
 Following are the some of the important benefits of an ATM:
 * It is an electronic banking machine that enables you to perform basic transactions without the help of a branch representative. 
 * Any credit card or debit card holder can access cash at any bank’s ATM. 
-* ATMs are very convenient to use and allows us to perform the following transactions quickly:
-* Deposits
+* ATMs are very convenient to use and will allow you to perform the following transactions quickly:
+  * Deposits
   * Cash withdrawals
   * Transfers between bank accounts
   * Bill payments
@@ -15,7 +15,7 @@ Following are the some of the important benefits of an ATM:
 
 ## Prerequisites
 
-Following are the prerequisites of using an ATM:
+Following are the prerequisites for using an ATM:
 * A valid ATM card provided by the bank.
 * The bank has provided a password for the first-time use.
 * Your mobile number is linked with the ATM card to get alerts of the ATM transactions.
@@ -29,7 +29,7 @@ The following images display the ATM card and the ATM machine:
 
 To withdraw money from the ATM, perform the following steps:
 
-1.	Go to an ATM and insert an ATM card in the card reader. Some instructions are displayed on the screen. As this screen is similar to the screen of your smartphone, it will be easy for you to interact.
+1.	Go to an ATM and insert your ATM card in the card reader. Some instructions are displayed on the screen. As this screen is similar to the screen of your smartphone, it will be easy for you to interact.
   
     **Note:** Ensure that the ATM card is inserted such that the chip and the bank logo face upwards. 
    
