@@ -34,16 +34,14 @@ To withdraw money from the ATM, perform the following steps:
     **Note:** Ensure that the ATM card is inserted such that the chip and the bank logo face upwards. 
    
 2.	Select the language of your choice from the options displayed on the screen. 
-3.	Enter the four-digit PIN using the keypad. The font size of numbers on the keypad is large, so it will be easily visible to you.
+3.	Enter the **four-digit PIN** using the keypad. The font size of numbers on the keypad is large, so it will be easily visible to you.
   
      _Caution: Be careful while entering your PIN to prevent it from being seen by onlookers._ 
   
-     **Note:** 
-     * Do not share the PIN with anyone.
-     * If you enter a wrong PIN for more than three times, then your ATM card might get blocked.
-4.	Select Withdraw Money from the options displayed on the screen. 
-5.	Select the account type as Current or Savings.
-6.	Enter the Amount to withdraw by using the keypad and press Enter. 
+     **Note:** Do not share the PIN with anyone. If you enter a wrong PIN for more than three times, then your ATM card might get blocked.
+4.	Select **Withdraw Money** from the options displayed on the screen. 
+5.	Select the account type as **Current** or **Savings**.
+6.	Enter the **Amount to withdraw** by using the keypad and press **Enter**. 
 
     **Note:** Ensure that there is a sufficient balance available in the account.
   
@@ -53,10 +51,8 @@ To withdraw money from the ATM, perform the following steps:
     
 8.	Collect the withdrawal receipt from the receipt printer. After you view the receipt, tear it, and then throw it in the dustbin for security reasons.
    
-    **Note:** 
-    * The withdrawal receipt is a proof of the transaction. It also contains details such as the available account balance after the withdrawal.
-    * You also have an option to avoid the printed slip and check your account’s information on the screen or on the SMS sent to you on your registered mobile number.
-9.	Complete the transaction process by pressing **Cancel**.
+    **Note:** The withdrawal receipt is a proof of the transaction. It also contains details such as the available account balance after the withdrawal. You also have       an option to avoid the printed slip and check your account’s information on the screen or on the SMS sent to you on your registered mobile number.
+9.	Complete the transaction process by pressing **Cancel** if you do not want to perform any further transactions.
 
 Collect the ATM card before leaving the ATM. If ATM card is retained by the ATM machine, you need to collect it from the branch.
 You would definitely be comfortable in using ATMs as it is as simple as using your smartphone which you recently learned and started operating efficiently. ATMs will also reduce your time and efforts as they are installed at many places like hospitals, railway stations, airports, and many other public places. This facility will allow you to carry less cash with you while travelling and you will be tension free for sure.
