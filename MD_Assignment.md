@@ -17,10 +17,10 @@ Following are the some of the important benefits of an ATM:
 
 Following are the prerequisites for using an ATM:
 * A valid ATM card provided by the bank.
-* The bank has provided a password for the first-time use.
-* Your mobile number is linked with the ATM card to get alerts of the ATM transactions.
+* A password provided by the bank for the first-time use.
+* A mobile number that is linked with the ATM card to get alerts of the ATM transactions.
 
-The following images display the ATM card and the ATM machine:
+The following images display the ATM machine and the ATM card:
 
 ![ATM Machine](https://www.zeptha.com/postimages/2018/12/parts_of_an_atm_3_20181222094853.jpg)
 ![ATM card](https://tse4.mm.bing.net/th/id/OIP.CVWkdovNOb_3xhpV6Qfa9wHaHa?w=195&h=195&c=7&r=0&o=5&pid=1.7) 
